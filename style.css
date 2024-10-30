@@ -97,7 +97,17 @@ body{
 	font-size: 13px;
 	width: 100%;
 	text-transform: capitalize;
+	
 }
+/*
+.pro-features .button .btn :hover {
+	background-color: white;
+
+
+}
+	*/
+
+
 .pro-features li {
 	color: #333;
 	margin: 0;
@@ -121,6 +131,7 @@ body{
 	box-shadow: -4px 0px 5px #00000036;
 }
 .get-pro:hover{
+
 	
 }
 #scrollUp {
@@ -139,7 +150,7 @@ body{
 	box-shadow: 0px 0px 10px #00000026;
 }
 #scrollUp:hover{
-	background:#2C2D3F;
+	background:white;
 }
 /* Color Plate */
 .color-plate {
