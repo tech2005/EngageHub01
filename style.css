@@ -87,7 +87,7 @@ body{
 	color: #1A76D1;
 	font-size: 15px;
 }
-.pro-features .button{}
+
 .pro-features .button .btn {
 	width: 100%;
 	text-align: center;
@@ -97,7 +97,7 @@ body{
 	font-size: 13px;
 	width: 100%;
 	text-transform: capitalize;
-	
+
 }
 /*
 .pro-features .button .btn :hover {
@@ -607,7 +607,7 @@ body{
 	background-repeat:no-repeat;
 }
 .slider .single-slider .text{
-	margin-top:120px;
+	margin-top:18px;
 }
 .slider.index2 .single-slider .text{
 	margin-top:150px;
@@ -617,8 +617,8 @@ body{
 	font-size: 38px;
 	font-weight: 700;
 	margin: 0;
-	padding: 0;
-	line-height: 42px;
+	padding-top: 0;
+	line-height: 43px;
 }
 .slider .single-slider h1 span{
 	color:#1a76d1;
