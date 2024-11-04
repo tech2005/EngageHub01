@@ -4181,3 +4181,20 @@ body{
 /*=========================
 	End Footer CSS
 ===========================*/
+
+
+/* Contact.html img tag  */
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: auto;
+	height: 100%;
+}
+
+.hey {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
